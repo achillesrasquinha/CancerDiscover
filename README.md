@@ -1,18 +1,20 @@
-# CancerDiscover
+<div align="center">
+  <h1>CancerDiscover</h1>
+</div>
 
-Welcome to **CancerDiscover**!
+<p align="justify">
+  <a href="https://github.com/HelikarLab/CancerDiscover">CancerDiscover</a> is a complete end-to-end Machine Learning Pipeline <em>(from Data Preprocessing to Model Deployment)</em> dedicated for DNA Microarray data analysis and modelling. The toolkit includes:
+  <ul>
+    <li>An <a href="https://www.affymetrix.com/support/developer/powertools/changelog/gcos-agcc/cel.html">AffyMetrix CEL</a> file to <a href="http://www.cs.waikato.ac.nz/ml/weka/arff.html">ARFF</a> convertor.
+    <li>Predefined <a href="http://weka.sourceforge.net/doc.dev/weka/attributeSelection/package-summary.html">Search</a> and <a href="http://weka.sourceforge.net/doc.dev/weka/attributeSelection/package-summary.html">Evaluator</a> algorithm combinations for Feature Selection.
+    <li>Customizable Pipeline for Modelling.
+    <li>Support for the <a href="https://slurm.schedmd.com">SLURM Workload Manager</a>.
+</p>
 
-## Purpose
-The purpose of this pipeline tool is to convert raw `CEL` file data into `Attribute Relation File Format` (`arff`) for cancer sample classification and biomarker discovery.
+### Table of Contents
+* [Installation](#installation)
 
-
-This README file will serve as a guide for using this software tool. We suggest reading through the entire document at least once, in order to get an idea of the options available, and how to customize the pipeline to fit your needs.
-
-
-## Software Requirement 
-
-Before installing **CancerDiscover**, make sure you have the necessary software packages installed. 
-
+### Installation
 ### Installing R
 
 From the command line, enter the following commands below: 
