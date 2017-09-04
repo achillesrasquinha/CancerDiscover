@@ -9,6 +9,7 @@
     <li>Predefined <a href="http://weka.sourceforge.net/doc.dev/weka/attributeSelection/package-summary.html">Search</a> and <a href="http://weka.sourceforge.net/doc.dev/weka/attributeSelection/package-summary.html">Evaluator</a> algorithm combinations for Feature Selection.
     <li>Customizable Pipeline for Modelling.
     <li>Support for the <a href="https://slurm.schedmd.com">SLURM Workload Manager</a>.
+  </ul>
 </p>
 
 ### Table of Contents
