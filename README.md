@@ -20,10 +20,6 @@ In order to install CancerDiscover, check out our exhaustive guides:
 * [The Hitchhiker's Guide to Installing CancerDiscover on Mac OS X](https://github.com/achillesrasquinha/CancerDiscover/wiki/A-Hitchhiker's-Guide-to-Installing-candis-on-Mac-OS-X) (In Progress)
 * [The Hitchhiker's Guide to Installing CancerDiscover on Linux OS](https://github.com/achillesrasquinha/CancerDiscover/wiki/A-Hitchhiker's-Guide-to-Installing-candis-on-Linux-OS) (In Progress)
 
-## Downloading **CancerDiscover**
-
-From your web browser, go to the GitHub website [link](https://github.com/HelikarLab/CancerDiscover). It is important to note that you may have to install other unix commands such as the command **source** and the larger software package `Perl`. Both are necessary for the pipeline to function. 
-
 ## Directory Structure of the Pipeline
 
 After installation of **CancerDiscover**, notice inside the **CancerDiscover** directory there are several empty directories and one which contains all of the scripts necessary to process data:
